@@ -62,6 +62,6 @@ Content Cell | Content Cell
 <table><td><tr></tr></td></table>
 ```
 
-## Работа с ссылками
+## Работа с ссылками (база)
 
 ## Работа с цитатами
